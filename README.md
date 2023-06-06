@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h4 align="center">Formado em Engenharia de Software pela UFAM, com especialização em desenvolvimento de aplicativos móveis. Trabalho com desenvolvimento de software desde 2010, porém estive afastado por 3 anos. Criei este repositório novo para novos aprendizados. Atualmente, trabalhando com Fullstack.</h4>
+<h4 align="center">Formado em Engenharia de Software pela UFAM, com especialização em desenvolvimento de aplicativos móveis. Trabalho com desenvolvimento de software desde 2010, porém estive afastado por 3 anos. Criei este repositório novo para novos aprendizados. Atualmente, trabalhando como Fullstack.</h4>
 
 ###
 
