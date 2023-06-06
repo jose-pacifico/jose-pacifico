@@ -1,12 +1,12 @@
 <br clear="both">
 
-<h1 align="center">Hello World!!</h1>
+<h3 align="center">Hello World!!</h3>
 
 ###
 
 <br clear="both">
 
-<h4 align="center">Me chamo José Alberto, trabalho com desenvolvimento de software desde 2010, porém estive afastado  3 anos. Criei este repositório novo para novos aprendizados.</h4>
+<h6 align="center">Formado em Engenharia de Software pela UFAM, com especialização em desenvolvimento de aplicativos móveis. Trabalho com desenvolvimento de software desde 2010, porém estive afastado por 3 anos. Criei este repositório novo para novos aprendizados. Atualmente, trabalhando com Fullstack.</h6>
 
 ###
 
