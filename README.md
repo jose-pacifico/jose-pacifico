@@ -1,4 +1,12 @@
-<h2 align="center">Bem vindo ao meu repositório</h2>
+<br clear="both">
+
+<h1 align="center">Hello World!!</h1>
+
+###
+
+<br clear="both">
+
+<h4 align="center">Me chamo José Alberto, trabalho com desenvolvimento de software desde 2010, porém estive afastado  3 anos. Criei este repositório novo para novos aprendizados.</h4>
 
 ###
 
