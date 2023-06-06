@@ -1,12 +1,12 @@
 <br clear="both">
 
-<h3 align="center">Hello World!!</h3>
+<h2 align="center">Hello World!!</h2>
 
 ###
 
 <br clear="both">
 
-<h6 align="center">Formado em Engenharia de Software pela UFAM, com especialização em desenvolvimento de aplicativos móveis. Trabalho com desenvolvimento de software desde 2010, porém estive afastado por 3 anos. Criei este repositório novo para novos aprendizados. Atualmente, trabalhando com Fullstack.</h6>
+<h4 align="center">Formado em Engenharia de Software pela UFAM, com especialização em desenvolvimento de aplicativos móveis. Trabalho com desenvolvimento de software desde 2010, porém estive afastado por 3 anos. Criei este repositório novo para novos aprendizados. Atualmente, trabalhando com Fullstack.</h4>
 
 ###
 
